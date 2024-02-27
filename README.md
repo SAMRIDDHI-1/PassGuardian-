@@ -2,7 +2,7 @@
 <br>
 A new Flutter project.
 
-**<h2>Getting Started<\h2>**
+<h2>Getting Started<\h2>
 <br>
 This project is a starting point for a Flutter application.
 
